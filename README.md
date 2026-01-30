@@ -22,7 +22,7 @@ This application allows users to manage daily tasks efficiently by adding and de
 
 ---
 ## 📸 Screenshots
-![todo_list](TODO_list)
+![todo_list](TODO_list.png)
 ---
 
 
